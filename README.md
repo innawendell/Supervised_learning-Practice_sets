@@ -1,2 +1,2 @@
 # Supervised_learning
-projects
+Practice sets
